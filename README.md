@@ -69,12 +69,18 @@ Data Modeling using star schema concepts
 
 Map visualizations and advanced charts
 
-📂 Repository Structure
+📂 Repository Structure 
+
 Electric_Vehicle_Sales_Analysis.pbix
+
 Electric_Vehicle_Sales_Analysis_Dashboard.png
+
 dataset/
+
 ev_sales_data.csv
+
 README.md
+
 
 📈 Key Insights
 
